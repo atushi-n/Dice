@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Dice</string>
+    <string name="title_activity_custom__dice">Custom_Dice</string>
+    <string name="title_activity_custom">CustomActivity</string>
+    <string name="read">標準は通常のサイコロです,１～６の数字をランダムで表示します。\n カスタムは自身で出る数字を決めることができます。\n 数字は　,　で区切ります。\n 例 2, 4, 6, 80 \n 2, 4, 6, 80のどれかがランダムに表示されます"</string>
+
+    <string-array name="menu">
+        <item>標準</item>
+        <item>カスタム</item>
+        <item>ReadMe</item>
+    </string-array>
+    <string name="title_activity_normal">Normal</string>
+</resources>
